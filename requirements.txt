@@ -1,0 +1,8 @@
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+pillow==13.0.0
+qiskit==2.6.2
+qiskit-aer==0.18.4
+kyber-py==1.2.0
+dilithium-py==1.5.1
